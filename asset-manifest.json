@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.ededc79a.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.d68668b9.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.d68668b9.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.1fe65d36.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.1fe65d36.js.map",
+    "static/js/2.606fd9f8.chunk.js": "/react-gh-pages/static/js/2.606fd9f8.chunk.js",
+    "static/js/2.606fd9f8.chunk.js.map": "/react-gh-pages/static/js/2.606fd9f8.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.de59426d118605325c728598a92987d2.js": "/react-gh-pages/precache-manifest.de59426d118605325c728598a92987d2.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.ededc79a.chunk.css.map": "/react-gh-pages/static/css/main.ededc79a.chunk.css.map",
+    "static/js/2.606fd9f8.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.606fd9f8.chunk.js.LICENSE.txt",
+    "static/media/FilterIcon.png": "/react-gh-pages/static/media/FilterIcon.179ee91f.png",
+    "static/media/addIcon.svg": "/react-gh-pages/static/media/addIcon.38961a03.svg",
+    "static/media/banner.jpg": "/react-gh-pages/static/media/banner.4085798a.jpg",
+    "static/media/heartempty.png": "/react-gh-pages/static/media/heartempty.9f3b504d.png",
+    "static/media/heartfull.png": "/react-gh-pages/static/media/heartfull.8dacde49.png",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.fd07ed86.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fe65d36.js",
+    "static/js/2.606fd9f8.chunk.js",
+    "static/css/main.ededc79a.chunk.css",
+    "static/js/main.d68668b9.chunk.js"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "eventos": [
+    { "id": 1, "name": "Joao e Marcão",  "date": "30/07" , "tipo: "musica"},
+    { "id": 2, "name": "O Mistério de Varpa",  "date": "25/07" , "tipo: "danca"}
+  ] 
+}
